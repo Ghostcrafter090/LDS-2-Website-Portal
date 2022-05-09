@@ -5,3 +5,4 @@
 2022-05-09;12-08-35-829719  ;;;  Connection Faliure. Device not detected.
 2022-05-09;12-14-31-043356  ;;;  Searching for devices...
 2022-05-09;12-14-35-560364  ;;;  Device detected on COM port COM6!
+2022-05-09;14-45-13-491989  ;;;  b'Strike Detected! reading of; 688; High, Low; 474, -471; Current Danger Level; 1; at tic; 9036426'
