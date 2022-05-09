@@ -1,0 +1,8 @@
+
+2022-02-26;01-11-47-493529  ;;;  b'Strike Detected! reading of; 732; High, Low; 395, -466; Current Danger Level; 1; at tic; 525014706'
+2022-02-26;11-49-36-100051  ;;;  b'Strike Detected! reading of; 565; High, Low; 403, -465; Current Daner Level; 1; at tic; 563284058\r\n'
+2022-02-26;13-28-49-293607  ;;;  b'Strike Detected! reading of; 537; High, Low; 390, -467; Current Danger Level; 1; at tic; 569237277'
+2022-02-26;13-40-46-708216  ;;;  b'Strike Detected! reading of; 716; High, Low; 396, -466; Current Danger Level; 1; at tic; 569954708'
+2022-02-26;15-59-28-408730  ;;;  Searching for devices...
+2022-02-26;15-59-31-062904  ;;;  Device detected on COM port COM5!
+2022-02-26;18-48-02-566108  ;;;  b'Strike Detected! reading of; 730; High, Low; 395, -464; Current Danger Level; 1; at tic; 10110026'

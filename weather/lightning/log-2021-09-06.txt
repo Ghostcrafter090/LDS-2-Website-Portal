@@ -1,0 +1,3 @@
+
+2021-09-06;03-59-40-765507  ;;;  b'Strike Detected! reading of; 535; High, Low; 327, -315; Current Danger Level; 1; at tic; 294439194'
+2021-09-06;04-08-26-990199  ;;;  b'Strike Detected! reading of; -480; High, Low; 361, -304; Current Danger Level; 1; at tic; 294965427'

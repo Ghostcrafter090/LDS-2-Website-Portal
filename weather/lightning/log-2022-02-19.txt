@@ -1,0 +1,3 @@
+
+2022-02-19;23-21-37-498372  ;;;  Searching for devices...
+2022-02-19;23-21-40-157529  ;;;  Device detected on COM port COM5!

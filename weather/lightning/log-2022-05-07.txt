@@ -1,0 +1,5 @@
+
+2022-05-07;00-43-17-773571  ;;;  b'Strike Detected! reading of; 727; High, Low; 470, -477; Current Danger Level; 1; at tic; 41674792'
+2022-05-07;01-34-28-123062  ;;;  b'Strike Detected! reading of; 640; High, Low; 440, -476; Current Danger Level; 1; at tic; 44745217'
+2022-05-07;05-17-53-737238  ;;;  b'Strike Detected! reading of; 926; High, Low; 457, -473; Current Danger Level; 1; at tic; 58150985'
+2022-05-07;07-33-31-941050  ;;;  b'Strike Detected! reading of; 768; High, Low; 418, -473; Current Danger Level; 1; at tic; 66289360'

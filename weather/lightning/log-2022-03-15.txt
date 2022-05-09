@@ -1,0 +1,5 @@
+
+2022-03-15;00-23-30-064900  ;;;  b'Strike Detected! reading of; 1023; High, Low; 391, -463; Current Danger Level; 1; at tic; 107267365'
+2022-03-15;01-35-49-418387  ;;;  b'Strike Detected! reading of; 1006; High, Low; 400, -463; Current Danger Level; 1; at tic; 111606805'
+2022-03-15;13-28-40-102868  ;;;  Searching for devices...
+2022-03-15;13-28-42-974943  ;;;  Device detected on COM port COM5!
