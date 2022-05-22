@@ -1,2 +1,3 @@
 
 2022-05-22;00-05-21-060836  ;;;  b'Strike Detected! reading of; 571; High, Low; 421, -471; Current Danger Level; 1; at tic; 875550873'
+2022-05-22;08-17-50-369862  ;;;  b'Strike Detected! reading of; 785; High, Low; 430, -473; Current Danger Level; 1; at tic; 905100677'
