@@ -1,2 +1,3 @@
 
 2022-05-26;06-06-39-140961  ;;;  b'Strike Detected! reading of; 646; High, Low; 429, -481; Current Danger Level; 1; at tic; 1242835144'
+2022-05-26;06-21-39-979477  ;;;  b'Strike Detected! reading of; 702; High, Low; 426, -472; Current Danger Level; 1; at tic; 1243735994'
