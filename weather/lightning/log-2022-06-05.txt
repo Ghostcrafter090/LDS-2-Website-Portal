@@ -12,3 +12,4 @@
 2022-06-05;13-35-11-548648  ;;;  b'Strike Detected! reading of; 632; High, Low; 473, -507; Current Danger Level; 6; at tic; 494010723'
 2022-06-05;13-35-21-346355  ;;;  Searching for devices...
 2022-06-05;13-35-23-988133  ;;;  Device detected on COM port COM6!
+2022-06-05;16-17-18-914302  ;;;  b'Strike Detected! reading of; 1023; High, Low; 469, -475; Current Danger Level; 1; at tic; 9713441'
