@@ -7,12 +7,16 @@
                 $hosts = json_decode($string, true);
                 if ($_GET['comm'] == "return") {
                     $keys = array_keys($hosts);
+                    $hostsNew = json_decode("{\"gsweathermore.ddns.net\": {\"ip\": \"". getHostByName(getHostName()). "\", \"lastUpdated\": ". $_SERVER['REQUEST_TIME']. "}}", true);
                     $i = 0;
                     while ($i < count($keys)) {
-                        if ($hosts[$keys[$i]]) {
-                            
+                        if (($hosts[$keys[$i]]["lastUpdated"] + 120) < $_SERVER['REQUEST_TIME'] + 120) {
+                            $hostsNew[$keys[$i]] = $hosts[$keys[$i]];
                         }
+                        $i = $i + 1;
                     }
+                    echo json_encode($hostsNew);
+                    file_put_contents(".\\hosts.cxl", json_encode($hostsNew));
                     $commf = true;
                 } else if ($_GET['comm'] == "set") {
                     if (isset($_GET['token'])) {
