@@ -1,0 +1,2 @@
+
+2022-06-16;07-21-51-930114  ;;;  b'Strike Detected! reading of; 892; High, Low; 480, -481; Current Danger Level; 1; at tic; 928002138'
