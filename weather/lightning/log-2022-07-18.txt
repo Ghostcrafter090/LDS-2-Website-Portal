@@ -1,2 +1,3 @@
 
 2022-07-18;00-16-59-253115  ;;;  b'Strike Detected! reading of; 799; High, Low; 492, -477; Current Danger Level; 1; at tic; 458046759'
+2022-07-18;03-53-43-921932  ;;;  b'Strike Detected! reading of; 1023; High, Low; 477, -477; Current Danger Level; 1; at tic; 471051655'
